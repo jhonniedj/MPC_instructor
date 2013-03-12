@@ -3,7 +3,11 @@ MPC_instructor
 
 Media Player Classic Remote, MPC remote, YouTube Downloader/link resolver
 
-NOTE:for nice settings in combination with second screen
+Maker: Jonathan van Rijn (jhonniedj)
+<br>Website: http://jonajona.nl/
+<br>MPC_Instuctor page: http://jonajona.nl/MPC/
+
+NOTE: for nice settings in combination with second screen
 <br>and MPC_instructor, use the 'mpc-hc-settings.reg' file.
 
 Options:
